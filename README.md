@@ -18,9 +18,6 @@
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/andyacosta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andyacosta/" height="30" width="40" /></a>
 
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-
 ### Languages and Tools:
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,django,python,vue,gitlab,tailwind,mysql,postgres,docker,git,figma,bash,nginx,vscode&theme=light)
@@ -52,4 +49,5 @@
   <summary>:zap: Click Here!</summary>
 
   <p>Don't forget to connect!</p>
+  <a href="https://www.linkedin.com/in/andyacosta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andyacosta/" height="30" width="40" /></a>
 </details>
