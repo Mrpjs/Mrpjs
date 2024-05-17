@@ -6,8 +6,8 @@
 
 ## I'm a Developer passionate about EdTech products! 
 
-- 🔭 I'm a former teacher
-- 🌱 I’m an eco-nerd who loves camping and hiking
+- 🔭 I'm a former science teacher focused on biology and physics!
+- 🌱 I’m an eco-friendly nerd who loves camping, hiking, roadbiking, and running 
 - 👯 I’m looking to collaborate with people interested in edTech!
 - 🥅 2024 Goals: Work on my projects and learn Deutsch!
 - ⚡ Fun fact: I am the youngest of 10 siblings!
